@@ -37,8 +37,9 @@
 			<p>Starting at 3rd level, you gain some control over the ever-changing magic of the fey. It imbues you and gives you an edge in battle. Choose one of the following powers:</p>
 			<p class="indent"><strong><em>Stealthy.</em></strong> After using your action on a turn, you can use your bonus action to become invisible, this effect lasts until the start of your next turn.</p>
 			<p class="indent"><strong><em>Ephemeral.</em></strong> You can use your bonus action to teleport up to 30 feet closer to an enemy creature.</p>
-			<p class="indent"><strong><em>Beguiling.</em></strong> As an action, you target one humanoid or beast that you can see within 30 feet of you. If the target can see you it must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier), or be magically charmed. It does so with advantage if it is hostile to you, or you or yyour companions are fighting it.</p>
-			<p class="indent">The charmed creature regards you as a trusted friend to bee heeded and protected. Although the target isn't under your control, it takes your requests or actions in the most favourable way it can. Each time you or your allies do anything harmful to the target, or ask to perform an action that would be harmful to it, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 10 minutes or until you end the effect as a bonus action. If a target's saving throw is successful, the target is immune to this ability for the next 24 hours.</p>
+			<p class="indent"><strong><em>Beguiling.</em></strong> As an action, you target one humanoid or beast that you can see within 30 feet of you. If the target can see you it must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier), or be magically charmed. It does so with advantage if it is hostile to you, or you or your companions are fighting it.</p>
+			<p class="indent">The charmed creature regards you as a trusted friend to be heeded and protected. Although the target isn't under your control, it takes your requests or actions in the most favourable way it can. Each time you or your allies do anything harmful to the target, or ask to perform an action that would be harmful to it, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 10 minutes or until you end the effect as a bonus action. If a target's saving throw is successful, the target is immune to this ability for the next 24 hours.</p>
+			<p></p>
 			<p class="indent"> You can use the powers granted by this ability a number of time equal to your Charisma modifier + 2 per long rest. You can change which power you can use as part of a short or long rest.</p>
 			<p class="centre"> Your Charisma score also increases by 2.</p>
 		</description>
@@ -61,7 +62,7 @@
 			<p>Starting at 10th level, the powers granted by your Fey Paths ability improve.</p>
 			<p class="indent"><strong><em>Stealthy.</em></strong> Your first attack after using this ability deals an additional 1d12 force damage.</p>
 			<p class="indent"><strong><em>Ephemeral.</em></strong> You can touch another willing creature to bring it with you when you teleport, and aren't restricted to teleporting towards an enemy.</p>
-			<p class="indent"><strong><em>Beguiling.</em></strong> The duration increeaeses to 1 hour, and hostile creatures no longer have advantage on the save but creatures you are fighting still do.</p>
+			<p class="indent"><strong><em>Beguiling.</em></strong> The duration increases to 1 hour, and hostile creatures no longer have advantage on the save but creatures you are fighting still do.</p>
 			<p class="indent"> In addition you can now decide at the start of each of your turn which power you want to use, instead of after a rest.</p>
 		</description>
 		</element>
