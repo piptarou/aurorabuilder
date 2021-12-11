@@ -3,7 +3,7 @@
 	<info>
 		<name>Fey Knight</name>
 		<update version="0.0.1">
-			<file name="fighter-feyknight.xml" url="https://raw.githubusercontent.com/piptarou/aurorabuilder/main/elements/third-party/the-feytastic-compendium/archetypes/fighter-feyknight.xml" />
+			<file name="fighter-feyknight.xml" url="https://github.com/piptarou/Aurora-Char-Builder/blob/main/fighter-feyknight.xml" />
 		</update>
 	</info>	
 	
