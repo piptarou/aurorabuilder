@@ -94,16 +94,15 @@
 		
 				<element id="ID_DMSG_WAY_OF_THE_FLORAL_SOUL_NATURES_HERALD" source="DMs Guild" type="Archetype Feature" name="Nature's Herald">
 		<description>
-
 			<p>Finally at Level 17 you learned to manipulate your ki and become one with the environment around you. If you spend at least 30 minutes meditating in direct contact with an ecosystem, you can discover every type of vegetation and the location of all the wildlife inherent of that place within a radius of 50 kilometres. In addition, your Ability given by Blossom gains the following increments:</p>
 
-			<p class="indent"><strong><em>Lotus Incarnation</em></strong>
+			<p class="indent"><strong><em>Lotus Incarnation</em></strong></p>
 			<p class="indent">When an enemy fails to resist your <b>Dance of the Petals</b> ability it automatically misses the first attack it makes against you, and the first attack   it makes against a creature other than you has a disadvantage. Additionally you can spend 7 Ki points to replicate the effect of the Heal Spell Without the need for spell components. you can only replicate this effect 3 times a day.</p>
 
-			<p class="indent"><strong><em>Rose Incarnation</em></strong>
+			<p class="indent"><strong><em>Rose Incarnation</em></strong></p>
 			<p class="indent">When you use Flurry of Blows while <b>Rose's Thorn</b> is active you make 3 unarmed strikes instead of 2. Also when you grab an object to move towards it you don't generate attacks of opportunity, the range goes up to 45 feet and you can perform an unarmed strike on a creature up to 10 feet from where you stopped with your movement.</p>
 
-			<p class="indent"><strong><em>Orchid Incarnation</em></strong>
+			<p class="indent"><strong><em>Orchid Incarnation</em></strong></p>
 			<p class="indent">While <b>Floral Adaptation</b> is active and you use your Floral Protection or Diamond Soul abilities you cause the energy within you to Burst, forcing all hostile creatures in an area of 20 feet centered on you to make a Dexterity saving throw against your Monk DC, on a failed save they take 3d8 damage from the element you are bound to. Also when you roll 1 or 2 on the elemental damage for your attacks you can reroll and must use the new value, even if the new roll is a 1 or a 2.</p>
 			<p class="indent"><strong><em>About the Nature's Herald usage</em></strong></p>
 			<p class="indent">This is a situational, high level feature. Is important to have in mind that if there is any kind of creature or plant that the players may be Interested on that level of play, the DM must be prepared to describe the most important details to avoid unnecessary work. On the other hand, if the player want to have a general idea of their surroundings the DM can give a rounded explanation of the biosphere they are inserted forgoing superfluous descriptions.</p>
