@@ -7,10 +7,10 @@
 		</update>
 	</info>	
 
-	<element name="Way of The Floral Soul" type="Archetype" source="DMs Guild" id="ID_DMSG_WAY_OF_THE_FLORAL_SOUL">
+	<element name="Way of the Floral Soul" type="Archetype" source="DMs Guild" id="ID_DMSG_WAY_OF_THE_FLORAL_SOUL">
 		<supports>Monastic Tradition</supports>
 		<description>
-			<p class="indent">Monks of the Way of the Floral Soul seek physical and spiritual perfection through their connection with the nature around them, which changes the way that their Ki behaves and sometimes even the monk's personality. Few are the ones who attune themselves with their environment in this unique way, generally they have some natural connection with the Feywild so much so that this monastic tradition was first developed by Spring Eladrins after they started rooting themselves into civilizations and meeting with monks in the material plane. Way of the Floral Soul monks focuses primarily on versatility, even taking some druidic abilities in their favour and manifesting their Ki energy with semi corporeal flowers, which can be just as deadly as they are beautiful.</p>
+			<p>Monks of the Way of the Floral Soul seek physical and spiritual perfection through their connection with the nature around them, which changes the way that their Ki behaves and sometimes even the monk's personality. Few are the ones who attune themselves with their environment in this unique way, generally they have some natural connection with the Feywild so much so that this monastic tradition was first developed by Spring Eladrins after they started rooting themselves into civilizations and meeting with monks in the material plane. Way of the Floral Soul monks focuses primarily on versatility, even taking some druidic abilities in their favour and manifesting their Ki energy with semi corporeal flowers, which can be just as deadly as they are beautiful.</p>
 			<div element="ID_DMSG_WAY_OF_THE_FLORAL_SOUL_NATURES_BLESSING"/>
 			<div element="ID_DMSG_WAY_OF_THE_FLORAL_SOUL_BLOSSOM"/>
 			<div element="ID_DMSG_WAY_OF_THE_FLORAL_SOUL_MUTABLE_STUN"/>
@@ -44,37 +44,52 @@
 			<p>
 				<table>
 					<thead>
-						<tr><td class="col-20">Orchid Colours</td></tr>
+						<tr><td class="caption">d10</td></tr><td>Orchid Colours</td></tr>
 					</thead>
-					<tr><td>1 Brown</td><td>6 Black</td></tr>
-					<tr><td>2 White</td><td>7 White+Purple</td></tr>
-					<tr><td>3 Orange</td><td>8 Purple</td></tr>
-					<tr><td>4 Blue+Black</td><td>9 Pink</td></tr>
-					<tr><td>5 Light Blue</td><td>10 Dark Blue</td></tr>
+					<tr><td>1</td><td>Brown</td></tr>
+					<tr><td>2</td><td>White</td></tr>
+					<tr><td>3</td><td>Orange</td></tr>
+					<tr><td>4</td><td>Blue+Black</td></tr>
+					<tr><td>5</td><td>Light Blue</td></tr>
+					<tr><td>6</td><td>Black</td></tr>
+					<tr><td>7</td><td>White+Purple</td></tr>
+					<tr><td>8</td><td>Purple</td></tr>
+					<tr><td>9</td><td>Pink</td></tr>
+					<tr><td>10</td><td>Dark Blue</td></tr>
 				</table>
 			</p>
 			<p>
 				<table>
 					<thead>
-						<tr><td class="col-20">Damage Type</td></tr>
+						<tr><td class="caption">d10</td></tr><td>Damage Type</td></tr>
 					</thead>
-					<tr><td>1 Acid</td><td>6 Necrotic</td></tr>
-					<tr><td>2 Cold</td><td>7 Poison</td></tr>
-					<tr><td>3 Fire</td><td>8 Psychic</td></tr>
-					<tr><td>4 Force</td><td>9 Radiant</td></tr>
-					<tr><td>5 Lightning</td><td>10 Thunder</td></tr>
+					<tr><td>1</td><td>Acid</td></tr>
+					<tr><td>2</td><td>Cold</td></tr>
+					<tr><td>3</td><td>Fire</td></tr>
+					<tr><td>4</td><td>Force</td></tr>
+					<tr><td>5</td><td>Lightning</td></tr>
+					<tr><td>6</td><td>Necrotic</td></tr>
+					<tr><td>7</td><td>Poison</td></tr>
+					<tr><td>8</td><td>Psychic</td></tr>
+					<tr><td>9</td><td>Radiant</td></tr>
+					<tr><td>10</td><td>Thunder</td></tr>
 				</table>
 			</p>
 			<p>
 				<table>
 					<thead>
-						<tr><td class="col-20">Social Advantages</td></tr>
+						<tr><td class="caption">d10</td></tr><td>Social Advantages</td></tr>
 					</thead>
-					<tr><td>1 Intimidation</td><td>6 Intimidation</td></tr>
-					<tr><td>2 Persuasion</td><td>7 Intimidation</td></tr>
-					<tr><td>3 Intimidation</td><td>8 Persuasion</td></tr>
-					<tr><td>4 Persuasion</td><td>9 Persuasion</td></tr>
-					<tr><td>5 Persuasion</td><td>10 Intimidation</td></tr>
+					<tr><td>1</td><td>Intimidation</td></tr>
+					<tr><td>2</td><td>Persuasion</td></tr>
+					<tr><td>3</td><td>Intimidation</td></tr>
+					<tr><td>4</td><td>Persuasion</td></tr>
+					<tr><td>5</td><td>Persuasion</td></tr>
+					<tr><td>6</td><td>Intimidation</td></tr>
+					<tr><td>7</td><td>Intimidation</td></tr>
+					<tr><td>8</td><td>Persuasion</td></tr>
+					<tr><td>9</td><td>Persuasion</td></tr>
+					<tr><td>10</td><td>Intimidation </td></tr>
 				</table>
 			</p>
 		</description>
