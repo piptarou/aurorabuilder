@@ -44,7 +44,7 @@
 			<p>
 				<table>
 					<thead>
-						<tr><td class="caption">d10</td></tr><td>Orchid Colours</td></tr>
+						<tr><td class="caption">d10</td><td>Orchid Colours</td></tr>
 					</thead>
 					<tr><td>1</td><td>Brown</td></tr>
 					<tr><td>2</td><td>White</td></tr>
@@ -61,7 +61,7 @@
 			<p>
 				<table>
 					<thead>
-						<tr><td class="caption">d10</td></tr><td>Damage Type</td></tr>
+						<tr><td class="caption">d10</td><td>Damage Type</td></tr>
 					</thead>
 					<tr><td>1</td><td>Acid</td></tr>
 					<tr><td>2</td><td>Cold</td></tr>
@@ -78,7 +78,7 @@
 			<p>
 				<table>
 					<thead>
-						<tr><td class="caption">d10</td></tr><td>Social Advantages</td></tr>
+						<tr><td class="caption">d10</td><td>Social Advantages</td></tr>
 					</thead>
 					<tr><td>1</td><td>Intimidation</td></tr>
 					<tr><td>2</td><td>Persuasion</td></tr>

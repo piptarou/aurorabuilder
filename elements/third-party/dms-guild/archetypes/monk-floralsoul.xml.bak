@@ -7,7 +7,7 @@
 		</update>
 	</info>	
 
-	<element name="Way of The Floral Soul" type="Archetype" source="DMs Guild" id="ID_DMSG_WAY_OF_THE_FLORAL_SOUL">
+	<element name="Way of the Floral Soul" type="Archetype" source="DMs Guild" id="ID_DMSG_WAY_OF_THE_FLORAL_SOUL">
 		<supports>Monastic Tradition</supports>
 		<description>
 			<p>Monks of the Way of the Floral Soul seek physical and spiritual perfection through their connection with the nature around them, which changes the way that their Ki behaves and sometimes even the monk's personality. Few are the ones who attune themselves with their environment in this unique way, generally they have some natural connection with the Feywild so much so that this monastic tradition was first developed by Spring Eladrins after they started rooting themselves into civilizations and meeting with monks in the material plane. Way of the Floral Soul monks focuses primarily on versatility, even taking some druidic abilities in their favour and manifesting their Ki energy with semi corporeal flowers, which can be just as deadly as they are beautiful.</p>
