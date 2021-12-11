@@ -2,8 +2,10 @@
 <elements>
 	<info>
 		<name>Fey Knight</name>
-		
-	</info>
+		<update version="0.0.1">
+			<file name="fighter-feyknight.xml" url="https://github.com/piptarou/Aurora-Char-Builder/blob/main/fighter-feyknight.xml" />
+		</update>
+	</info>	
 	
 	<element name="Fey Knight" type="Archetype" source="The Feytastic Compendium" id="ID_TFC_ARCHETYPE_FEYKNIGHT">
 		<supports>Martial Archetype</supports>
