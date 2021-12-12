@@ -33,6 +33,11 @@
 		<description>
 			<p>When you choose this subclass at level 3, you learn a cantrip from the Druid spell list. Also, at level 5, you can cast plant growth once per day without paying the component cost. Any additional uses of this feature costs 4 Ki points.</p>
 		</description>
+		<sheet>
+			<description>
+			<p>When you choose this subclass at level 3, you learn a cantrip from the Druid spell list. Also, at level 5, you can cast plant growth once per day without paying the component cost. Any additional uses of this feature costs 4 Ki points.</p>
+			</description>
+		</sheet>
 	</element>
 
 	<element id="ID_DMSG_WAY_OF_THE_FLORAL_SOUL_BLOSSOM" source="DMs Guild" type="Archetype Feature" name="Blossom">
