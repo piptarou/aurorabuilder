@@ -60,9 +60,7 @@
 			<p>At 3rd level, as an action, you can touch a creature and magically know the creature's current emotional state. If a target fails a Charisma saving throw (DC = 8 + your proficiency bonus + your Charisma Modifier), you can also learn the creature's alignment, and if the last sentence they said was a truth or a lie.</p>
 		</description>
 		<sheet>
-				<description>
-			<p>At 3rd level, as an action, you can touch a creature and magically know the creature's current emotional state. If a target fails a Charisma saving throw (DC = 8 + your proficiency bonus + your Charisma Modifier), you can also learn the creature's alignment, and if the last sentence they said was a truth or a lie.</p>
-		</description>
+			<description>At 3rd level, as an action, you can touch a creature and magically know the creature's current emotional state. If a target fails a Charisma saving throw (DC = 8 + your proficiency bonus + your Charisma Modifier), you can also learn the creature's alignment, and if the last sentence they said was a truth or a lie.<</description>
 		</sheet>
 		</element>
 
@@ -72,10 +70,7 @@
 			<p>In addition while under the effect of the spell, you can add a 1d6 bonus to your Charisma checks.</p>
 		</description>
 		<sheet>
-		<description>
-			<p>Starting at 7th level, you cast the spell <i>disguise self</i> at will, without expending a spell slot. Charisma is your spell casting ability for this spell.</p>
-			<p>In addition while under the effect of the spell, you can add a 1d6 bonus to your Charisma checks.</p>
-		</description>
+			<description>Starting at 7th level, you cast the spell <i>disguise self</i> at will, without expending a spell slot. Charisma is your spell casting ability for this spell.In addition while under the effect of the spell, you can add a 1d6 bonus to your Charisma checks.</description>
 		</sheet>
 	</element>
 	<element name="Empowered" type="Archetype Feature" source="The Feytastic Compendium" id="ID_TFC_ARCHETYPE_FEATURE_FEYKNIGHT_EMPOWERED">
@@ -87,13 +82,13 @@
 			<p class="indent"> In addition you can now decide at the start of each of your turn which power you want to use, instead of after a rest.</p>
 		</description>
 		<sheet>
-				<description>
+			<description>
 			<p>Starting at 10th level, the powers granted by your Fey Paths ability improve.</p>
 			<p class="indent"><strong><em>Stealthy.</em></strong> Your first attack after using this ability deals an additional 1d12 force damage.</p>
 			<p class="indent"><strong><em>Ephemeral.</em></strong> You can touch another willing creature to bring it with you when you teleport, and aren't restricted to teleporting towards an enemy.</p>
 			<p class="indent"><strong><em>Beguiling.</em></strong> The duration increases to 1 hour, and hostile creatures no longer have advantage on the save but creatures you are fighting still do.</p>
 			<p class="indent"> In addition you can now decide at the start of each of your turn which power you want to use, instead of after a rest.</p>
-		</description>
+			</description>
 		</sheet>
 		</element>
 
@@ -102,9 +97,7 @@
 			<p>Starting at 15th level, when you roll initiative and have no use of Fey Paths remaining, you regain 1 use of it.</p>
 		</description>
 		<sheet>
-				<description>
-			<p>Starting at 15th level, when you roll initiative and have no use of Fey Paths remaining, you regain 1 use of it.</p>
-		</description>
+			<description>Starting at 15th level, when you roll initiative and have no use of Fey Paths remaining, you regain 1 use of it.</description>
 		</sheet>
 	</element>
 	
@@ -113,9 +106,7 @@
 			<p>The fey has forever changed you, the very core of your being is infused with their magic. Starting at 18th level, you become proficient in Wisdom saving throws (if you already are you become proficient in Charisma saving throws instead). you are immune to being charmed and magic can't put you to sleep. In addition you can now telepathically communicate with any creature within 60 feet of you.</p>
 		</description>
 		<sheet>
-				<description>
-			<p>The fey has forever changed you, the very core of your being is infused with their magic. Starting at 18th level, you become proficient in Wisdom saving throws (if you already are you become proficient in Charisma saving throws instead). you are immune to being charmed and magic can't put you to sleep. In addition you can now telepathically communicate with any creature within 60 feet of you.</p>
-		</description>
+			<description>The fey has forever changed you, the very core of your being is infused with their magic. Starting at 18th level, you become proficient in Wisdom saving throws (if you already are you become proficient in Charisma saving throws instead). you are immune to being charmed and magic can't put you to sleep. In addition you can now telepathically communicate with any creature within 60 feet of you.</description>
 		</sheet>
 	</element>
 
