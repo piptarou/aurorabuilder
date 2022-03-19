@@ -53,7 +53,7 @@
 
 	<element name="Shifting Form" type="Archetype Feature" source="The Feytastic Compendium" id="ID_TFC_ARCHETYPE_FEATURE_FEYKNIGHT_SHIFTING_FORM">
 		<description>
-			<p>Starting at 7th level, you cast the spell <i>disguise self</i> at will, without expending a spell slot. Charisma is your spellcasting ability for this spell.</p>
+			<p>Starting at 7th level, you cast the spell <i>disguise self</i> at will, without expending a spell slot. Charisma is your spell casting ability for this spell.</p>
 			<p>In addition while under the effect of the spell, you can add a 1d6 bonus to your Charisma checks.</p>
 		</description>
 	</element>
