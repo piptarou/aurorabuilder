@@ -32,7 +32,7 @@
 		</rules>
 	</element>
 
-	<element id="ID_TFC_ARCHETYPE_FEATURE_FEYKNIGHT_FEY_PATHS" source="The Feytastic Compendium" type="Archetype Feature" name="Fey Paths" >
+	<element id="ID_TFC_ARCHETYPE_FEATURE_FEYKNIGHT_FEY_PATHS" source="The Feytastic Compendium" type="Archetype Feature" name="Fey Paths">
 		<description>
 			<p>Starting at 3rd level, you gain some control over the ever-changing magic of the fey. It imbues you and gives you an edge in battle. Choose one of the following powers:</p>
 			<p class="indent"><strong><em>Stealthy.</em></strong> After using your action on a turn, you can use your bonus action to become invisible, this effect lasts until the start of your next turn.</p>
