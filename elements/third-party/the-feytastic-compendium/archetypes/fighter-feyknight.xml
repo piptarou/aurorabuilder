@@ -7,7 +7,7 @@
 		</update>
 	</info>	
 	
-	<element name="Fey Knight" type="Archetype" source="The Feytastic Compendium" id="ID_TFC_ARCHETYPE_FEYKNIGHT">
+	<element id="ID_TFC_ARCHETYPE_FEYKNIGHT" source="The Feytastic Compendium" type="Archetype" name="Fey Knight">
 		<supports>Martial Archetype</supports>
 		<description>
 			<p>The Fey Knights draw their powers from the fey realms, using it to render themselves unpredictable in battle. They undergo extensive training in order to master control over the powers held in their body, before being able to manifest them. These remarkable soldiers often guard the realms from creatures that lost their ways.</p>
